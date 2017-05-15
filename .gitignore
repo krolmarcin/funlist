@@ -24,5 +24,4 @@ nbdist/
 .nb-gradle/
 lib/
 pom.xml
-src/
 web/
